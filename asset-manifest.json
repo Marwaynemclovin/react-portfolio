@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.c2cab247.css",
+    "main.js": "/my-app/static/js/main.bfb93a99.js",
+    "static/media/Geolocation.png": "/my-app/static/media/Geolocation.c46d15d2cc27f81e1d7f.png",
+    "static/media/carInventory.png": "/my-app/static/media/carInventory.00b39f48b240b84b3b50.png",
+    "static/media/PasswordGen.png": "/my-app/static/media/PasswordGen.a9f1bb0ea1cbde8e8a84.png",
+    "static/media/Scheduler.png": "/my-app/static/media/Scheduler.15b71febfbb9b336d94f.png",
+    "static/media/TwitterIcon.png": "/my-app/static/media/TwitterIcon.f963dcac51d5020e10f3.png",
+    "static/media/resume.pdf": "/my-app/static/media/resume.52c3ddcaba4f94a6db4e.pdf",
+    "static/media/profile.webp": "/my-app/static/media/profile.efadb13dba95b5bc918b.webp",
+    "index.html": "/my-app/index.html",
+    "main.c2cab247.css.map": "/my-app/static/css/main.c2cab247.css.map",
+    "main.bfb93a99.js.map": "/my-app/static/js/main.bfb93a99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.bfb93a99.js"
+  ]
+}
