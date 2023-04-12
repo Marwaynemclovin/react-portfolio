@@ -29,6 +29,7 @@ The portfolio includes the following features:
 
 ## File Structure
 
+```
 marwin-portfolio/
 ├─ node_modules/
 ├─ public/
@@ -57,16 +58,17 @@ marwin-portfolio/
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
+```
 
 ## Screenshots
 
-[AboutMe](/marwin-portfolio/src/assets/AboutMe.png) 
+![AboutMe](/marwin-portfolio/src/assets/AboutMe.png) 
 
-[Portfolio](/marwin-portfolio/src/assets/Portfolio.png)
+![Portfolio](/marwin-portfolio/src/assets/Portfolio.png)
 
-[Contact](/marwin-portfolio/src/assets/ContactMe.png)
+![Contact](/marwin-portfolio/src/assets/ContactMe.png)
 
-[Resume](/marwin-portfolio/src/assets/ResumeTab.png)
+![Resume](/marwin-portfolio/src/assets/ResumeTab.png)
 
 ## Installation
 
