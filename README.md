@@ -30,7 +30,7 @@ The portfolio includes the following features:
 ## File Structure
 
 ```
-marwin-portfolio/
+portfolio
 ├─ node_modules/
 ├─ public/
 │  ├─ favicon.ico
@@ -52,7 +52,7 @@ marwin-portfolio/
 │  │  ├─ Geolocation.png
 │  │  ├─ PasswordGen.png
 │  │  ├─ profile.webp
-│  │  ├─ Scheduler.ong
+│  │  ├─ Scheduler.png
 │  ├─ App.js
 │  ├─ index.js
 ├─ .gitignore
