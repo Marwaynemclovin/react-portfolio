@@ -3,7 +3,7 @@
 This is a portfolio website built with React. It showcases the developer's skills, projects, and work experience.
 
 ## Link to Deployed Application
-Click here for the link: https://marwaynemclovin.github.io/react-portfolio/
+Click here for the link: https://marwaynemclovin.github.io/my-app/
 
 ## Table of Contents
 
