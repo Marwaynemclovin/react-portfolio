@@ -62,16 +62,16 @@ portfolio
 
 ## Screenshots
 About Me
-![AboutMe](/marwin-portfolio/src/assets/AboutMe.png) 
+![AboutMe](/src/assets/AboutMe.png) 
 
 Portfolio
-![Portfolio](/marwin-portfolio/src/assets/Portfolio.png)
+![Portfolio](/src/assets/Portfolio.png)
 
 Contact
-![Contact](/marwin-portfolio/src/assets/ContactMe.png)
+![Contact](/src/assets/ContactMe.png)
 
 Resume
-![Resume](/marwin-portfolio/src/assets/ResumeTab.png)
+![Resume](/src/assets/ResumeTab.png)
 
 ## Installation
 
